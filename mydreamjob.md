@@ -9,3 +9,10 @@ What do you think about it?
 [Hello, Fische!](http://neuefische.de/){target="_blank"}
 
 [Go to this page](http://somelink.com/?target=_blank)
+
+<a href="http://neuefische.de/" target="_blank">Fische</a>
+
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+
+<a href="http://..." target="_blank">external link</a>
+
