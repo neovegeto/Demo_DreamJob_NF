@@ -16,3 +16,6 @@ What do you think about it?
 
 <a href="http://..." target="_blank">external link</a>
 
+[text-to-highlight](actual-link){:target="\_blank"}
+
+[text-to-highlight](https://neuefische.de){:target="\_blank"}
