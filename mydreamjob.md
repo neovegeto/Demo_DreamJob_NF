@@ -14,7 +14,7 @@ What do you think about it?
 
 [Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 
-<a href="http://..." target="_blank">external link</a>
+<a href="http://www.neuefische.de" target="_blank">external link</a>
 
 [text-to-highlight](actual-link){:target="\_blank"}
 
