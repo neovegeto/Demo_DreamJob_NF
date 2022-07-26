@@ -7,6 +7,7 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap
 
 ![This is an image](https://files.slack.com/files-pri/TTHG21AH3-F03R1S72R6X/screenshot_2022-07-26_at_16.01.33.png)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://images.app.goo.gl/4MVu5MvrAfiSXXN36)
 
-https://files.slack.com/files-pri/TTHG21AH3-F03R1S72R6X/screenshot_2022-07-26_at_16.01.33.png
+
+<img src="https://files.slack.com/files-pri/TTHG21AH3-F03R1S72R6X/screenshot_2022-07-26_at_16.01.33.png" width="100" height="100" alt="lasagna" />
